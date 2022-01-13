@@ -1,2 +1,2 @@
 # Solana
- Itroduction to Solana
+ Introduction to Solana
